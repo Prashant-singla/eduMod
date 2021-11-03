@@ -97,6 +97,12 @@ p {
 .icon:hover {
   color: #8dcec1;
 }
+.icon-heading {
+  color: black;
+}
+.icon-heading:hover {
+  text-decoration: underline black;
+}
 
 /*Testimonial Section*/
 #testimonials {
