@@ -108,8 +108,8 @@ $(function(){
     //change lineWidth using slider
     $("#slider").slider({
         //slider values for changing cicrle size
-        min: 3,
-        max: 30,
+        min: 5,
+        max: 40,
         slide:function(event, ui){
             $("#circle").height(ui.value);
             $("#circle").width(ui.value);
